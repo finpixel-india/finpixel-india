@@ -46,6 +46,64 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
+<!-- ───────────── ABOUT FINPIXEL INDIA ───────────── -->
+
+<div align="center">
+
+## 🏢 About Finpixel India
+
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+India's+Premier+Digital+Agency+%E2%9C%A8;%F0%9F%8C%8D+Serving+Clients+Worldwide+%F0%9F%8C%8D;%F0%9F%92%8E+Where+Innovation+Meets+Precision+%F0%9F%92%8E" alt="about tagline"/>
+</a>
+
+<br/>
+
+</div>
+
+<div align="center">
+
+> 🚀 **Finpixel India** is a cutting-edge **web development & digital marketing agency** founded by **Ashish Singh**.
+> We specialize in building **world-class websites**, **3D animations**, and **high-converting digital experiences**
+> that help businesses thrive in the digital universe.
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/50+-Websites_Built-a855f7?style=for-the-badge&labelColor=1a1a2e" alt="websites"/><br/><br/>
+<sub>Custom-built premium sites</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/30+-Happy_Clients-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="clients"/><br/><br/>
+<sub>Worldwide satisfied clients</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/100%25-Client_Satisfaction-6b21a8?style=for-the-badge&labelColor=1a1a2e" alt="satisfaction"/><br/><br/>
+<sub>5-star rated services</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/24%2F7-Support-4c1d95?style=for-the-badge&labelColor=1a1a2e" alt="support"/><br/><br/>
+<sub>Always here for you</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+</div>
+
+<div align="center">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> &nbsp;Hey there, I'm **Ashish Singh**
@@ -302,21 +360,96 @@ graph LR
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════ ✦ CELESTIAL SPARKLE SECTION ✦ ═══════════════ -->
+<!-- ═══════════════ ✦ WEB DEVELOPMENT FEATURES ✦ ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020014,50:1a0533,100:020014&height=2" width="100%" />
+## 🌐 Web Development Features We Deliver
 
 <br/>
 
-<a href="https://github.com/finpixelindia">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=600&height=50&lines=✦+Crafting+Digital+Universes+✦;✦+Where+Pixels+Meet+Precision+✦;✦+Every+Project+is+a+Constellation+✦" alt="celestial tagline"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Every+Website+We+Build+Comes+With+These+Features+%F0%9F%94%A5;Production-Ready+%7C+Scalable+%7C+Secure+%7C+Fast+%E2%9A%A1" alt="features tagline"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🔍_SEO-Optimized-a855f7?style=for-the-badge&labelColor=1a1a2e" alt="SEO"/><br/><br/>
+<sub><b>SEO Optimization</b><br/>On-page SEO, meta tags, schema<br/>markup, sitemap & robots.txt<br/>for top Google rankings</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🔒_SSL-Secured-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="SSL"/><br/><br/>
+<sub><b>SSL Certificate</b><br/>HTTPS encryption, secure<br/>data transfer & trust badges<br/>for complete security</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/⚡_Speed-Blazing_Fast-6b21a8?style=for-the-badge&labelColor=1a1a2e" alt="Speed"/><br/><br/>
+<sub><b>Lightning Speed</b><br/>90+ PageSpeed score, lazy<br/>loading, CDN & optimized<br/>assets for instant loads</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/📱_Responsive-Design-4c1d95?style=for-the-badge&labelColor=1a1a2e" alt="Responsive"/><br/><br/>
+<sub><b>Fully Responsive</b><br/>Pixel-perfect on mobile,<br/>tablet & desktop with<br/>adaptive layouts</sub><br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/☁️_Hosting-Premium-a855f7?style=for-the-badge&labelColor=1a1a2e" alt="Hosting"/><br/><br/>
+<sub><b>Premium Hosting</b><br/>Cloud hosting with 99.9%<br/>uptime, auto-backups<br/>& global CDN</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🎨_UI%2FUX-Premium-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="UI/UX"/><br/><br/>
+<sub><b>Premium UI/UX</b><br/>Stunning interfaces with<br/>3D animations, micro-<br/>interactions & GSAP effects</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/📊_Analytics-Integrated-6b21a8?style=for-the-badge&labelColor=1a1a2e" alt="Analytics"/><br/><br/>
+<sub><b>Analytics Setup</b><br/>Google Analytics, Search<br/>Console & heatmaps for<br/>data-driven decisions</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🛡️_Security-Protected-4c1d95?style=for-the-badge&labelColor=1a1a2e" alt="Security"/><br/><br/>
+<sub><b>Security Hardened</b><br/>Firewall, DDoS protection,<br/>malware scanning & secure<br/>authentication</sub><br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🔗_Domain-Setup-a855f7?style=for-the-badge&labelColor=1a1a2e" alt="Domain"/><br/><br/>
+<sub><b>Domain & DNS</b><br/>Custom domain setup,<br/>DNS configuration &<br/>email routing</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/💳_Payment-Gateway-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Payment"/><br/><br/>
+<sub><b>Payment Integration</b><br/>Stripe, Razorpay, PayPal<br/>& UPI gateway setup<br/>for e-commerce</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🗄️_CMS-Powered-6b21a8?style=for-the-badge&labelColor=1a1a2e" alt="CMS"/><br/><br/>
+<sub><b>CMS Integration</b><br/>WordPress, headless CMS<br/>or custom admin panels<br/>for easy content management</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🚀_CI%2FCD-Automated-4c1d95?style=for-the-badge&labelColor=1a1a2e" alt="CI/CD"/><br/><br/>
+<sub><b>Auto Deployment</b><br/>Git-based CI/CD pipelines,<br/>auto builds & zero-downtime<br/>deployments</sub><br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%E2%9C%A6+Crafting+Digital+Universes+%E2%9C%A6;%E2%9C%A6+Where+Pixels+Meet+Precision+%E2%9C%A6;%E2%9C%A6+Every+Project+is+a+Constellation+%E2%9C%A6" alt="celestial tagline"/>
 </a>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020014,50:1a0533,100:020014&height=2" width="100%" />
 
 </div>
 
@@ -337,27 +470,27 @@ graph LR
 <tr>
 <td align="center" width="25%">
 <br/>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"><br/><br/>
+<img src="https://img.shields.io/badge/🎯-black?style=for-the-badge&labelColor=7c3aed" width="50"/><br/><br/>
 <b>🎯 Pixel Perfect</b><br/>
-<sub>Every design crafted<br/>with surgical precision</sub><br/><br/>
+<sub>Every design crafted<br/>with surgical precision.<br/>Zero compromise on quality.</sub><br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60"><br/><br/>
+<img src="https://img.shields.io/badge/⚡-black?style=for-the-badge&labelColor=6b21a8" width="50"/><br/><br/>
 <b>⚡ Lightning Fast</b><br/>
-<sub>Optimized performance<br/>& blazing load times</sub><br/><br/>
+<sub>Optimized performance<br/>& blazing load times.<br/>90+ PageSpeed score.</sub><br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60"><br/><br/>
+<img src="https://img.shields.io/badge/🌍-black?style=for-the-badge&labelColor=4c1d95" width="50"/><br/><br/>
 <b>🌍 Global Standard</b><br/>
-<sub>World-class quality<br/>& modern aesthetics</sub><br/><br/>
+<sub>World-class quality<br/>& modern aesthetics.<br/>International best practices.</sub><br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
-<img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="60"><br/><br/>
+<img src="https://img.shields.io/badge/📈-black?style=for-the-badge&labelColor=5b21b6" width="50"/><br/><br/>
 <b>📈 Growth Driven</b><br/>
-<sub>Results-oriented<br/>marketing strategies</sub><br/><br/>
+<sub>Results-oriented<br/>marketing strategies.<br/>Data-backed decisions.</sub><br/><br/>
 </td>
 </tr>
 </table>
@@ -643,9 +776,11 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <br/><br/>
 
-<!-- ───────────── CELESTIAL GLOW ELEMENT ───────────── -->
+<!-- ───────────── ANIMATED ACCENT ───────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=✦%20·%20·%20·%20✦%20·%20·%20·%20✦&fontSize=24&fontColor=7c3aed&animation=twinkling" width="100%"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=4000&pause=2000&color=7C3AED&center=true&vCenter=true&repeat=true&width=300&height=30&lines=%E2%9C%A6+%C2%B7+%C2%B7+%C2%B7+%E2%9C%A6+%C2%B7+%C2%B7+%C2%B7+%E2%9C%A6" alt="sparkle"/>
+</a>
 
 
 ### ⏰ Fun Stats
