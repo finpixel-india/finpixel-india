@@ -8,7 +8,11 @@
 
 <!-- ───────────── ANIMATED HEADER BANNER ───────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:1a0533,50:2d1b69,75:6b21a8,100:a855f7&height=220&section=header&text=FINPIXEL%20INDIA&fontSize=52&fontColor=e2d6ff&fontAlignY=35&desc=Defining%20every%20pixel%20with%20precision&descSize=18&descColor=c4b5fd&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020014,15:0a0a3a,30:1a0533,50:2d1b69,70:4c1d95,85:7c3aed,100:a855f7&height=250&section=header&text=FINPIXEL%20INDIA&fontSize=56&fontColor=e2d6ff&fontAlignY=32&desc=✦%20Defining%20every%20pixel%20with%20precision%20✦&descSize=18&descColor=c4b5fd&descAlignY=54&animation=fadeIn" width="100%"/>
+
+<!-- ───────────── CELESTIAL GLOW AURA ───────────── -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
 
 <!-- ───────────── TYPING ANIMATION ───────────── -->
 
@@ -36,7 +40,7 @@
 
 <!-- ───────────── ANIMATED DIVIDER ───────────── -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
 
 </div>
 
@@ -98,7 +102,10 @@ Email:      finpixelindia@gmail.com
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
@@ -175,7 +182,10 @@ Email:      finpixelindia@gmail.com
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
@@ -242,7 +252,10 @@ Email:      finpixelindia@gmail.com
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
@@ -279,120 +292,32 @@ graph LR
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════ ✦ CELESTIAL SPARKLE SECTION ✦ ═══════════════ -->
+
 <div align="center">
 
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020014,50:1a0533,100:020014&height=2" width="100%" />
 
 <br/>
 
-<!-- GITHUB STATS CARD -->
 <a href="https://github.com/finpixelindia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finpixelindia&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=c9d1d9&ring_color=a855f7" alt="Ashish's GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/finpixelindia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finpixelindia&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=600&height=50&lines=✦+Crafting+Digital+Universes+✦;✦+Where+Pixels+Meet+Precision+✦;✦+Every+Project+is+a+Constellation+✦" alt="celestial tagline"/>
 </a>
 
-<br/><br/>
-
-<!-- STREAK STATS -->
-<a href="https://github.com/finpixelindia">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=finpixelindia&theme=midnight-purple&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/finpixelindia">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=finpixelindia&bg_color=0d1117&color=a855f7&line=c084fc&point=e9d5ff&area_color=7c3aed&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</a>
-
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020014,50:1a0533,100:020014&height=2" width="100%" />
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=finpixelindia&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/finpixelindia/finpixelindia/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/finpixelindia/finpixelindia/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/finpixelindia/finpixelindia/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⭐ Featured Projects & Repositories
-
-<br/>
-
-<a href="https://github.com/finpixelindia?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=finpixelindia&repo=finpixelindia&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=c9d1d9" alt="Pinned Repo"/>
-</a>
-
-<br/><br/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=400&height=30&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%94%80+Fork+and+contribute+anytime!" alt="repo tagline"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
@@ -495,7 +420,10 @@ graph LR
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
@@ -524,7 +452,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
@@ -590,7 +521,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
@@ -669,7 +603,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
@@ -706,15 +643,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <br/><br/>
 
-<!-- ───────────── SPOTIFY / NOW PLAYING ───────────── -->
+<!-- ───────────── CELESTIAL GLOW ELEMENT ───────────── -->
 
-### 🎧 Vibing While Coding
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=✦%20·%20·%20·%20✦%20·%20·%20·%20✦&fontSize=24&fontColor=7c3aed&animation=twinkling" width="100%"/>
 
-<br/>
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oq3gkrwjhfidcv5k2xojp3x2cy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a855f7&bar_color_cover=true" alt="Spotify Now Playing"/>
-
-<br/><br/>
 
 ### ⏰ Fun Stats
 
@@ -733,7 +665,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ✦ Celestial Divider ✦ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 </div>
 
 <br/>
@@ -756,7 +691,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <!-- ANIMATED FOOTER WAVE -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:7c3aed,50:6b21a8,75:1a0533,100:0d0d0d&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,20:7c3aed,40:4c1d95,60:2d1b69,80:1a0533,100:020014&height=180&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
 
